@@ -6,11 +6,11 @@ He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS)
 
 #### Contact
 
-Email: senli[at]fas.harvard.edu
+Email: xusongli@smail.nju.edu.cn
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+Ph.D., Materials Science and Engineering, NanJing University, 2023—2028.\
+B.E., Biomedical Engineering, NanJing University, 2019—2023.
 
 #### Research Interests
 Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
